@@ -51,6 +51,6 @@
 ---
 # 📈 Activity
 
-[![KiranCherote9745's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KiranCherote9745&bg_color=0d1117&color=7fff00&line=7fff00&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![KiranCherote9745's GitHub Activity Graph]((https://github-readme-activity-graph.vercel.app/graph?username=KiranCherote9745&theme=chartreuse-dark)
 
 
