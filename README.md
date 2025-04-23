@@ -57,7 +57,5 @@
 ## 🌐 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kiran-cherote/)
-- 📧 Reach me at: **kiran.cherote@example.com**
-
 ---
 
