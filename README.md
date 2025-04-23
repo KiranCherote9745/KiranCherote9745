@@ -42,9 +42,6 @@
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" height="150" />
 
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=KiranCherote9745&icon=2&color=3" height="150" />
-  </a>
 
 </div>
 
