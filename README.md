@@ -30,22 +30,20 @@
 
 # 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=KiranCherote9745&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" width="400"/></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=KiranCherote9745&theme=chartreuse-dark&hide_border=false" width="400"/></td>
-    <td><img src="https://github-contributor-stats.vercel.app/api?username=KiranCherote9745&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranCherote9745&theme=chartreuse-dark&hide_border=false&layout=compact" width="400"/></td>
-    <td><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" width="400"/></td>
-    <td>
-      <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=KiranCherote9745&icon=2&color=3" width="400"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KiranCherote9745&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" width="360" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiranCherote9745&theme=chartreuse-dark&hide_border=false" width="360" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=KiranCherote9745&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" width="360" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranCherote9745&theme=chartreuse-dark&hide_border=false&layout=compact" width="360" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" width="360" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=KiranCherote9745&icon=2&color=3" width="360" />
+  </a>
+</p>
+
 
 
 
