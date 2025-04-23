@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm Kiran Cherote
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💻_Full--stack_Developer-7FFF00?style=for-the-badge&labelColor=006400&color=006400" />
+  <img src="https://img.shields.io/badge/💻_Learning_New_Things-7FFF00?style=for-the-badge&labelColor=006400&color=006400" />
   <img src="https://img.shields.io/badge/📚_Lifelong_Learner-Open--Source_Enthusiast-7FFF00?style=for-the-badge&labelColor=006400&color=006400" />
   <img src="https://img.shields.io/badge/🎨_Creating-Clean_&_Accessible_Designs-7FFF00?style=for-the-badge&labelColor=006400&color=006400" />
 </p>
