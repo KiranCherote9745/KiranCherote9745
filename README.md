@@ -41,14 +41,6 @@
 <img src="https://img.shields.io/badge/Quote-%22Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.%22-black?style=for-the-badge&labelColor=7FFF00" />
 ---
 
-
-
-![GitHub Snake](https://github.com/KiranCherote9745/KiranCherote9745/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
 ---
 ## 📊 GitHub Stats
 
