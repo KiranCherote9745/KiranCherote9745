@@ -21,21 +21,24 @@
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px;">
 
-  <img src="https://img.shields.io/badge/C-Chartreuse-7FFF00?style=flat&logo=c&logoColor=006400" />
-  <img src="https://img.shields.io/badge/C++-Chartreuse-7FFF00?style=flat&logo=c%2B%2B&logoColor=006400" />
-  <img src="https://img.shields.io/badge/Dart-Chartreuse-7FFF00?style=flat&logo=dart&logoColor=006400" />
-  <img src="https://img.shields.io/badge/Java-Chartreuse-7FFF00?style=flat&logo=openjdk&logoColor=006400" />
-  <img src="https://img.shields.io/badge/Python-Chartreuse-7FFF00?style=flat&logo=python&logoColor=006400" />
-  <img src="https://img.shields.io/badge/JavaScript-Chartreuse-7FFF00?style=flat&logo=javascript&logoColor=006400" />
-  <img src="https://img.shields.io/badge/Flutter-Chartreuse-7FFF00?style=flat&logo=flutter&logoColor=006400" />
-  <img src="https://img.shields.io/badge/Django-Chartreuse-7FFF00?style=flat&logo=django&logoColor=006400" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Chartreuse-7FFF00?style=flat&logo=postgresql&logoColor=006400" />
-  <img src="https://img.shields.io/badge/Bootstrap-Chartreuse-7FFF00?style=flat&logo=bootstrap&logoColor=006400" />
-  <img src="https://img.shields.io/badge/GitHub-Chartreuse-7FFF00?style=flat&logo=github&logoColor=006400" />
-  <img src="https://img.shields.io/badge/Figma-Chartreuse-7FFF00?style=flat&logo=figma&logoColor=006400" />
+  <img src="https://img.shields.io/badge/C--7FFF00?style=flat&logo=c&logoColor=7FFF00" />
+  <img src="https://img.shields.io/badge/C++--7FFF00?style=flat&logo=c%2B%2B&logoColor=7FFF00" />
+  <img src="https://img.shields.io/badge/Dart--7FFF00?style=flat&logo=dart&logoColor=7FFF00" />
+  <img src="https://img.shields.io/badge/Java--7FFF00?style=flat&logo=openjdk&logoColor=7FFF00" />
+  <img src="https://img.shields.io/badge/Python--7FFF00?style=flat&logo=python&logoColor=7FFF00" />
+  <img src="https://img.shields.io/badge/JavaScript--7FFF00?style=flat&logo=javascript&logoColor=7FFF00" />
+  <img src="https://img.shields.io/badge/Flutter--7FFF00?style=flat&logo=flutter&logoColor=7FFF00" />
+  <img src="https://img.shields.io/badge/Django--7FFF00?style=flat&logo=django&logoColor=7FFF00" />
+  <img src="https://img.shields.io/badge/PostgreSQL--7FFF00?style=flat&logo=postgresql&logoColor=7FFF00" />
+  <img src="https://img.shields.io/badge/Bootstrap--7FFF00?style=flat&logo=bootstrap&logoColor=7FFF00" />
+  <img src="https://img.shields.io/badge/GitHub--7FFF00?style=flat&logo=github&logoColor=7FFF00" />
+  <img src="https://img.shields.io/badge/Figma--7FFF00?style=flat&logo=figma&logoColor=7FFF00" />
 
 </p>
 
+---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 ---
 
 ## 📊 GitHub Stats
@@ -43,9 +46,7 @@
 [![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiranCherote9745&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/KiranCherote9745)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KiranCherote9745&theme=chartreuse-dark&hide_border=false)](https://github.com/KiranCherote9745)
 [![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=KiranCherote9745&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)](https://github.com/KiranCherote9745)
-
 ---
-
 ## 📈 GitHub Activity
 
 <p align="center">
