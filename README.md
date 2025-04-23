@@ -34,7 +34,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KiranCherote9745&theme=chartreuse-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranCherote9745&theme=chartreuse-dark&hide_border=false&layout=compact)
 
----
 
 # 🔝 Repositories
 
@@ -43,6 +42,9 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=KiranCherote9745&icon=2&color=3)](https://visitcount.itsvg.in)
+
+---
+
 
 ---
 # 📈 Activity
