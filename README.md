@@ -51,6 +51,7 @@
 ---
 # 📈 Activity
 
-[![KiranCherote9745's GitHub Activity Graph]((https://github-readme-activity-graph.vercel.app/graph?username=KiranCherote9745&theme=chartreuse-dark)
+![KiranCherote9745's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KiranCherote9745&theme=chartreuse-dark)
+
 
 
