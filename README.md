@@ -1,45 +1,67 @@
-# Hello World!, I'm Kiran 👋🏼  
-🛜 Currently exploring full-stack web & app development  
-👨‍🎓 Lifelong learner and open-source contributor  
-🛠️ Passionate about Python, Flutter, and Web Tech  
-🎯 Striving for clean code & great user experiences  
+# 👋 Hello, World! I'm Kiran Cherote
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_Full--stack_Developer-7FFF00?style=for-the-badge&labelColor=006400&color=006400" />
+  <img src="https://img.shields.io/badge/📚_Lifelong_Learner-Open--Source_Enthusiast-7FFF00?style=for-the-badge&labelColor=006400&color=006400" />
+  <img src="https://img.shields.io/badge/🎨_Creating-Clean_&_Accessible_Designs-7FFF00?style=for-the-badge&labelColor=006400&color=006400" />
+</p>
 
 ---
 
-# 💻 Tech Stack
-- ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-- ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-- ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![SQLite](https://img.shields.io/badge/-SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/-GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+## 🛠 About Me
+
+- 🌱 **Currently Learning**: Advanced Flutter, Django Rest Framework, and Web Accessibility.
+- 🎯 **Passion**: Building efficient, scalable apps and crafting seamless user experiences.
+- 💬 **Ask Me About**: Full-stack development, Python, and tips for clean code practices!
+- 🤝 **Fun Fact**: I love blending design and functionality to create impactful apps.
 
 ---
 
-# 📊 GitHub Stats
+## 💼 Technical Skills
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiranCherote9745&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px;">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KiranCherote9745&theme=chartreuse-dark&hide_border=false)
+  <img src="https://img.shields.io/badge/C-Chartreuse-7FFF00?style=flat&logo=c&logoColor=006400" />
+  <img src="https://img.shields.io/badge/C++-Chartreuse-7FFF00?style=flat&logo=c%2B%2B&logoColor=006400" />
+  <img src="https://img.shields.io/badge/Dart-Chartreuse-7FFF00?style=flat&logo=dart&logoColor=006400" />
+  <img src="https://img.shields.io/badge/Java-Chartreuse-7FFF00?style=flat&logo=openjdk&logoColor=006400" />
+  <img src="https://img.shields.io/badge/Python-Chartreuse-7FFF00?style=flat&logo=python&logoColor=006400" />
+  <img src="https://img.shields.io/badge/JavaScript-Chartreuse-7FFF00?style=flat&logo=javascript&logoColor=006400" />
+  <img src="https://img.shields.io/badge/Flutter-Chartreuse-7FFF00?style=flat&logo=flutter&logoColor=006400" />
+  <img src="https://img.shields.io/badge/Django-Chartreuse-7FFF00?style=flat&logo=django&logoColor=006400" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Chartreuse-7FFF00?style=flat&logo=postgresql&logoColor=006400" />
+  <img src="https://img.shields.io/badge/Bootstrap-Chartreuse-7FFF00?style=flat&logo=bootstrap&logoColor=006400" />
+  <img src="https://img.shields.io/badge/GitHub-Chartreuse-7FFF00?style=flat&logo=github&logoColor=006400" />
+  <img src="https://img.shields.io/badge/Figma-Chartreuse-7FFF00?style=flat&logo=figma&logoColor=006400" />
 
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=KiranCherote9745&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+</p>
 
 ---
 
-# 📈 GitHub Activity
+## 📊 GitHub Stats
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/31c453/KiranCherote9745)
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+ 
+
+
+</p>
 
 ---
 
-This arrangement stacks the **Tech Stack** items horizontally while keeping the other sections vertically aligned as requested. You can copy this markdown directly into your profile.
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/7FFF00/KiranCherote9745" alt="Kiran's GitHub Contribution Graph" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kiran-cherote/)
+- 🐦 [Twitter](https://twitter.com/KiranCherote)
+- 📧 Reach me at: **kiran.cherote@example.com**
+
+---
+
