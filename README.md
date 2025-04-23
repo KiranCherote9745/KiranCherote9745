@@ -30,7 +30,7 @@
 
 # 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=KiranCherote9745&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" height="150" />
 
