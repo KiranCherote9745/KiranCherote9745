@@ -34,18 +34,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KiranCherote9745&theme=chartreuse-dark&hide_border=false)
 ![](https://github-contributor-stats.vercel.app/api?username=KiranCherote9745&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranCherote9745&theme=chartreuse-dark&hide_border=false&layout=compact)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
 [![](https://visitcount.itsvg.in/api?id=KiranCherote9745&icon=2&color=3)](https://visitcount.itsvg.in)
+
 
 ---
 # 📈 Activity
 
 [![KiranCherote9745's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KiranCherote9745&bg_color=0d1117&color=7fff00&line=7fff00&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
-# ✍️ Random Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
 
 ---
 # 🐍 Contributionz 
