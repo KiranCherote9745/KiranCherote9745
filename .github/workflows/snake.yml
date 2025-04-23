@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-    # Optionally, you can add other branches where you want this to trigger.
   pull_request:
     branches:
       - main
@@ -20,7 +19,8 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          
+          github_user_name: ${{ github.repository_owner }} # Add this if required
+
       - name: Commit generated snake SVG
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
