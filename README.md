@@ -30,12 +30,24 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=KiranCherote9745&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=KiranCherote9745&theme=chartreuse-dark&hide_border=false)
-![](https://github-contributor-stats.vercel.app/api?username=KiranCherote9745&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranCherote9745&theme=chartreuse-dark&hide_border=false&layout=compact)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
-[![](https://visitcount.itsvg.in/api?id=KiranCherote9745&icon=2&color=3)](https://visitcount.itsvg.in)
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=KiranCherote9745&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiranCherote9745&theme=chartreuse-dark&hide_border=false" height="150" />
+
+  <img src="https://github-contributor-stats.vercel.app/api?username=KiranCherote9745&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranCherote9745&theme=chartreuse-dark&hide_border=false&layout=compact" height="150" />
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" height="150" />
+
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=KiranCherote9745&icon=2&color=3" height="150" />
+  </a>
+
+</div>
+
 
 
 ---
@@ -43,11 +55,4 @@
 
 [![KiranCherote9745's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KiranCherote9745&bg_color=0d1117&color=7fff00&line=7fff00&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
----
-# 🐍 Contributionz 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KiranCherote9745/KiranCherote9745/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KiranCherote9745/KiranCherote9745/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/KiranCherote9745/KiranCherote9745/output/github-snake.svg" />
-</picture>
